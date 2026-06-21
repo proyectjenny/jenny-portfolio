@@ -1,0 +1,17 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.thumbnail
+*.log
+
+# Claude artifact source (not needed for the live site)
+*.dc.html
+support.js
+
+# Reference material not part of the published site
+refs/
+screenshots/
+
+# Dependencies / build (none yet, but safe defaults)
+node_modules/
+.vercel
