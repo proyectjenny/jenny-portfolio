@@ -15,3 +15,7 @@ screenshots/
 # Dependencies / build (none yet, but safe defaults)
 node_modules/
 .vercel
+
+# Playwright / local test scratch
+.playwright-mcp/
+*.jpeg
